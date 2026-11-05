@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-assets-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-assets",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-assets-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/assets.md",
+  "presentationPlan": "projects/maintenance/nuxt/assets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
